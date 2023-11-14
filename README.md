@@ -3,7 +3,7 @@ This is a website for a digital marketing company called Horiseon specialising i
 Updating the HTML language by making it more semantic allows us to better understand the content of the website, it is also very important for SEO. Semantic HTML will help web crawlers to understand the website and therefore index it in a smarter way. 
 ## Header 
 The top section of the website is now wrapped in a <header> element, which represents introductory content and typically contains a group of introductory or navigational aids.
-The company logo "Horiseon" is rendered using the "<h1>" element. The word "seo" is given a separate <span> element with a class of "seo" for styling purposes.
+The company logo "Horiseon" is rendered using the ```h1``` element. The word "seo" is given a separate <span> element with a class of "seo" for styling purposes.
 The navigation links are placed within a <nav> (previously <dev>) element, which signifies a set of navigation links for the current page.
 
 ## Main content 
